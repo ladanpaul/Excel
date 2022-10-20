@@ -1,0 +1,10 @@
+WEBPACK ( imports/exports )
+ - Babel
+ - Scss
+ - Eslint
+ - 2 Modes
+  - Dev (Dev Server, Source Maps, EsLint, Not Minified JS & CSS)
+  - Prod ( minified code )
+GIT
+ - Production
+ - Development
